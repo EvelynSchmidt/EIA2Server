@@ -1,0 +1,15 @@
+{
+	"name" : "Server",
+	"version" : "1.0.0",
+	"description" : "Servertest",
+	"author" : "Evelyn",
+	"main" : "Server.js",
+	"scripts" : {
+		"start" : "node Server.js"
+	},
+	"engines" : {
+		"node" : "6.11.1"
+	},
+	"dependencies" : {
+	}
+}
